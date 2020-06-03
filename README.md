@@ -43,6 +43,7 @@ To use it, remember to change the input problem to the one desired ot solve, com
 make flow
 ./flow
 ```
+> If you need to make a solution with more colors, look at the displaySol function because u'll need to define the code for more colors to show up in the terminal.
 
 ### Requirements
 
